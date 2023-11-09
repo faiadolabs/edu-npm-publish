@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "bin": {
-    "edu-git-remote": "npm-sample-bin.js"
+    "npm-sample-bin": "npm-sample-bin.js"
   },
   "repository": {
     "type": "git",
